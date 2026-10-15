@@ -5,7 +5,7 @@ Bot's available here in tg directly: @rrslsmusicbot
 
 ## Description
 
-This bot is basically a YouTube wrapper that parses youtube for you and sents you audio files. You just need to write a request to a bot and it will search for videos (accuracy depends on how well do you write a request), and show you an inline keyboard with searched results. Just tap at whatever result which suits your expectation best and bot will send it to you in an m4a format.
+This bot is basically a YouTube wrapper that parses youtube for you and sends you audio files. You just need to write a request to a bot and it will search for videos (accuracy depends on how well do you write a request), and show you an inline keyboard with searched results. Just tap at whatever result which suits your expectation best and bot will send it to you in an m4a format.
 
 I've also uploaded mine ``tracks.db`` which I was actively using while building a bot. Sending track is usually faster when a track is already in database than it is not.
 
