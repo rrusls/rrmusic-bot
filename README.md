@@ -1,6 +1,7 @@
 # rrMusic - telegram bot for music w/ yt_dlp & aiogram
 
 I'm an active Telegram user and I was so sick of not finding a music via popular bots like LyBot, AnyMelody that I've decided to write my own bot.
+Bot's available here in tg directly: @rrslsmusicbot
 
 ## Description
 
