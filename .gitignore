@@ -1,0 +1,7 @@
+TOKEN.env
+cookies.txt
+env/
+downloads/
+src/downloads/
+__pycache__/
+older versions and trash/
