@@ -41,4 +41,4 @@ Gives you basic info about a bot. It also gives you a tip on how to get maximum 
 
 # Useful info
 
-Bot is still very raw speaking of consistency / scaling. But it's and MVP and it works nicely still. If you have different opinion and want to prove me wrong, fork this repository. All contributors / fixes / pull requests are welcome.
+Bot is still very raw speaking of consistency / scaling. But it's an MVP and it works nicely still. If you have different opinion and want to prove me wrong, fork this repository. All contributors / fixes / pull requests are welcome.
